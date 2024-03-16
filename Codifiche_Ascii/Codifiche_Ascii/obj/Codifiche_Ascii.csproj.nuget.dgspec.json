@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\3E\\TPSIT\\CodificaAscii\\Codifica-Ascii\\Codifiche_Ascii\\Codifiche_Ascii\\Codifiche_Ascii.csproj": {}
+    "X:\\3N\\Condivisione\\TPSIT\\Git\\Codifica-Ascii\\Codifiche_Ascii\\Codifiche_Ascii\\Codifiche_Ascii.csproj": {}
   },
   "projects": {
-    "Z:\\3E\\TPSIT\\CodificaAscii\\Codifica-Ascii\\Codifiche_Ascii\\Codifiche_Ascii\\Codifiche_Ascii.csproj": {
+    "X:\\3N\\Condivisione\\TPSIT\\Git\\Codifica-Ascii\\Codifiche_Ascii\\Codifiche_Ascii\\Codifiche_Ascii.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\3E\\TPSIT\\CodificaAscii\\Codifica-Ascii\\Codifiche_Ascii\\Codifiche_Ascii\\Codifiche_Ascii.csproj",
+        "projectUniqueName": "X:\\3N\\Condivisione\\TPSIT\\Git\\Codifica-Ascii\\Codifiche_Ascii\\Codifiche_Ascii\\Codifiche_Ascii.csproj",
         "projectName": "Codifiche_Ascii",
-        "projectPath": "Z:\\3E\\TPSIT\\CodificaAscii\\Codifica-Ascii\\Codifiche_Ascii\\Codifiche_Ascii\\Codifiche_Ascii.csproj",
+        "projectPath": "X:\\3N\\Condivisione\\TPSIT\\Git\\Codifica-Ascii\\Codifiche_Ascii\\Codifiche_Ascii\\Codifiche_Ascii.csproj",
         "packagesPath": "C:\\Users\\giorgio.salutini\\.nuget\\packages\\",
-        "outputPath": "Z:\\3E\\TPSIT\\CodificaAscii\\Codifica-Ascii\\Codifiche_Ascii\\Codifiche_Ascii\\obj\\",
+        "outputPath": "X:\\3N\\Condivisione\\TPSIT\\Git\\Codifica-Ascii\\Codifiche_Ascii\\Codifiche_Ascii\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
